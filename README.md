@@ -2,6 +2,9 @@
 
 Secure Sandbox is a web-based platform for safely running and testing code snippets in an isolated environment. It consists of a React frontend and a FastAPI backend, with code execution handled in Docker containers for security.
 
+
+![Output](assets/image-0.png)
+
 ## Features
 
 - **Online Code Editor**: Write and edit Python code in the browser using Monaco Editor.
